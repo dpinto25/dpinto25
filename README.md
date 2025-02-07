@@ -4,10 +4,6 @@
 
 <h3>I work mostly with:</h3>
 
-### Languages:
-
-### Languages:
-
 <h3> Languages </h3>
 <p>
 <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="C++" width="50px" height="50px">
