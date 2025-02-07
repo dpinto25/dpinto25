@@ -5,6 +5,10 @@
 <h3>I work mostly with:</h3>
 
 ### Languages:
+
+### Languages:
+
+<h3> Languages </h3>
 <p>
 <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="C++" width="50px" height="50px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" alt="JavaScript" width="50px" height="50px">
@@ -15,7 +19,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/1024px-CSS3_logo.svg.png" alt="CSS" width="50px" height="50px">
 <img src="https://cdn-icons-png.flaticon.com/512/4299/4299956.png" alt="SQL" width="50px" height="50px">
 </p>
-### Frameworks:
+<h3>Framworks</h3>
 <p>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" alt="ReactJS" width="50px" height="50px">
@@ -25,7 +29,7 @@
 <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap" width="50px" height="50px">
 <img src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-1024x615-fdeis5r1.png" alt="Tailwind" width="50px" height="50px">
 </p>
-### Utilities:
+<h3>Utilities</h3>
 <p>
 
 <img src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png" alt="Linux" width="50px" height="50px">
