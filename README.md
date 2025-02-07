@@ -15,7 +15,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/1024px-CSS3_logo.svg.png" alt="CSS" width="50px" height="50px">
 <img src="https://cdn-icons-png.flaticon.com/512/4299/4299956.png" alt="SQL" width="50px" height="50px">
 </p>
-<h3>Framworks</h3>
+<h3>Frameworks</h3>
 <p>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" alt="ReactJS" width="50px" height="50px">
